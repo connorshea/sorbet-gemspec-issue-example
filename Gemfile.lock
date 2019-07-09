@@ -20,6 +20,7 @@ PLATFORMS
 DEPENDENCIES
   example!
   sorbet
+  yard
 
 BUNDLED WITH
    2.0.1
