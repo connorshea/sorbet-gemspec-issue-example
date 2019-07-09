@@ -1,1 +1,2 @@
+require 'yard'
 puts 'example'
