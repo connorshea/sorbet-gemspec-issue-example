@@ -1,0 +1,19 @@
+PATH
+  remote: .
+  specs:
+    example (0.0.1)
+      yard
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    yard (0.9.20)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  example!
+
+BUNDLED WITH
+   2.0.1

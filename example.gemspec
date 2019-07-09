@@ -9,4 +9,6 @@ Gem::Specification.new do |s|
   s.homepage    =
     'https://rubygems.org/gems/example'
   s.license       = 'MIT'
+
+  s.add_dependency 'yard'
 end
