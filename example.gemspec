@@ -11,4 +11,6 @@ Gem::Specification.new do |s|
   s.license       = 'MIT'
 
   s.add_dependency 'yard'
+  s.add_dependency 'sorbet-runtime'
+  s.add_development_dependency 'sorbet'
 end
